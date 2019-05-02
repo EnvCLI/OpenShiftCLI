@@ -8,8 +8,8 @@ FROM frolvlad/alpine-glibc:latest
 ############################################################
 # Configuration
 ############################################################
-ENV VERSION "3.11.0"
-ENV VERSION_TAG_SHA_SHORT "0cbc58b"
+ENV VERSION "4.1.0"
+ENV VERSION_TAG_SHA_SHORT "b4261e0"
 
 ############################################################
 # Entrypoint
